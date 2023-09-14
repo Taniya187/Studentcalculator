@@ -7,7 +7,7 @@ public class Studentgradesystem {
 		 
 		 
 		 Scanner s1=new Scanner(System.in);
-     System.out.println("Marks obtained out of 100");
+   		 System.out.println("Marks obtained out of 100");
 		 System.out.println("Enter the marks obtained in chemistry ");
 		 int chem=s1.nextInt();
 		 
